@@ -1,0 +1,42 @@
+Python Data Types:
+
+1. BMI Calculator
+2. TIP Calculator
+
+Python Control Flow:
+
+3. Leap Year
+4. Odd or Even?
+5. Pizza order
+6. Love Calculator
+
+
+Python List:
+
+7. Heads or Tails
+8. Banker Roulette - Who will pay the bill?
+9. Rock Paper Scissors
+
+Python Loops:
+
+10. Average Height
+11. Hight Score
+12. Adding Even Numbers
+13. the FizzBuzz Job Interview Question
+14. Create a Password Generator
+
+Python Functions and Karel
+
+15. Hangman
+
+Pyhton Functions parameters 
+
+16. Paint area Calculator
+17. Prime number checker
+18. Caesar Cipher
+
+Python Dictionaris, Nesting and the Secret Auction
+
+19. Grading program
+20. Dictionary in List
+21. 
